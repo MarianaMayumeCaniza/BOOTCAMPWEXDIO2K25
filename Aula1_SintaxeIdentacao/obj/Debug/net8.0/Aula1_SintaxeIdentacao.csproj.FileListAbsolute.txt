@@ -1,0 +1,14 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\bin\Debug\net8.0\Aula1_SintaxeIdentacao.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\bin\Debug\net8.0\Aula1_SintaxeIdentacao.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\bin\Debug\net8.0\Aula1_SintaxeIdentacao.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\bin\Debug\net8.0\Aula1_SintaxeIdentacao.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\bin\Debug\net8.0\Aula1_SintaxeIdentacao.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\obj\Debug\net8.0\Aula1_SintaxeIdentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\obj\Debug\net8.0\Aula1_SintaxeIdentacao.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\obj\Debug\net8.0\Aula1_SintaxeIdentacao.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\obj\Debug\net8.0\Aula1_SintaxeIdentacao.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\obj\Debug\net8.0\Aula1_SintaxeIdentacao.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\obj\Debug\net8.0\refint\Aula1_SintaxeIdentacao.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\obj\Debug\net8.0\Aula1_SintaxeIdentacao.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\obj\Debug\net8.0\Aula1_SintaxeIdentacao.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\obj\Debug\net8.0\ref\Aula1_SintaxeIdentacao.dll
