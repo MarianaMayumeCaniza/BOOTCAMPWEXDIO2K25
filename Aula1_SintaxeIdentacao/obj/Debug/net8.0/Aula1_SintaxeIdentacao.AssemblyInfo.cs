@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula1_SintaxeIdentacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ecedb742887acb1f6127367faa8d592395251ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula1_SintaxeIdentacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula1_SintaxeIdentacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
