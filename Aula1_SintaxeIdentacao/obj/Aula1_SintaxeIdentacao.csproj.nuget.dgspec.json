@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria\\OneDrive\\Área de Trabalho\\PROJETOSGITHUB\\BOOTCAMPS\\WEXDIO2K25\\BOOTCAMPWEXDIO2K25\\Aula1_SintaxeIdentacao\\Aula1_SintaxeIdentacao.csproj": {}
+    "C:\\Users\\maria\\OneDrive\\Área de Trabalho\\PROJETOSGITHUB\\BOOTCAMPWEXDIO2K25\\Aula1_SintaxeIdentacao\\Aula1_SintaxeIdentacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria\\OneDrive\\Área de Trabalho\\PROJETOSGITHUB\\BOOTCAMPS\\WEXDIO2K25\\BOOTCAMPWEXDIO2K25\\Aula1_SintaxeIdentacao\\Aula1_SintaxeIdentacao.csproj": {
+    "C:\\Users\\maria\\OneDrive\\Área de Trabalho\\PROJETOSGITHUB\\BOOTCAMPWEXDIO2K25\\Aula1_SintaxeIdentacao\\Aula1_SintaxeIdentacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Área de Trabalho\\PROJETOSGITHUB\\BOOTCAMPS\\WEXDIO2K25\\BOOTCAMPWEXDIO2K25\\Aula1_SintaxeIdentacao\\Aula1_SintaxeIdentacao.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Área de Trabalho\\PROJETOSGITHUB\\BOOTCAMPWEXDIO2K25\\Aula1_SintaxeIdentacao\\Aula1_SintaxeIdentacao.csproj",
         "projectName": "Aula1_SintaxeIdentacao",
-        "projectPath": "C:\\Users\\maria\\OneDrive\\Área de Trabalho\\PROJETOSGITHUB\\BOOTCAMPS\\WEXDIO2K25\\BOOTCAMPWEXDIO2K25\\Aula1_SintaxeIdentacao\\Aula1_SintaxeIdentacao.csproj",
+        "projectPath": "C:\\Users\\maria\\OneDrive\\Área de Trabalho\\PROJETOSGITHUB\\BOOTCAMPWEXDIO2K25\\Aula1_SintaxeIdentacao\\Aula1_SintaxeIdentacao.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\OneDrive\\Área de Trabalho\\PROJETOSGITHUB\\BOOTCAMPS\\WEXDIO2K25\\BOOTCAMPWEXDIO2K25\\Aula1_SintaxeIdentacao\\obj\\",
+        "outputPath": "C:\\Users\\maria\\OneDrive\\Área de Trabalho\\PROJETOSGITHUB\\BOOTCAMPWEXDIO2K25\\Aula1_SintaxeIdentacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"
