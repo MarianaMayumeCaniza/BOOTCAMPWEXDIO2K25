@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\obj\Debug\net8.0\Aula2_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\obj\Debug\net8.0\Aula2_Operadores.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\obj\Debug\net8.0\Aula2_Operadores.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\obj\Debug\net8.0\Aula2_Operadores.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\obj\Debug\net8.0\Aula2_Operadores.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\bin\Debug\net8.0\Aula2_Operadores.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\bin\Debug\net8.0\Aula2_Operadores.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\bin\Debug\net8.0\Aula2_Operadores.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\bin\Debug\net8.0\Aula2_Operadores.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\bin\Debug\net8.0\Aula2_Operadores.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\obj\Debug\net8.0\Aula2_Operadores.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\obj\Debug\net8.0\refint\Aula2_Operadores.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\obj\Debug\net8.0\Aula2_Operadores.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\obj\Debug\net8.0\Aula2_Operadores.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPWEXDIO2K25\Aula2_Operadores\obj\Debug\net8.0\ref\Aula2_Operadores.dll
