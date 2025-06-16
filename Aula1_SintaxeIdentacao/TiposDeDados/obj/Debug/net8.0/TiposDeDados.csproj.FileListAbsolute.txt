@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\bin\Debug\net8.0\TiposDeDados.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\bin\Debug\net8.0\TiposDeDados.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\bin\Debug\net8.0\TiposDeDados.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\bin\Debug\net8.0\TiposDeDados.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\bin\Debug\net8.0\TiposDeDados.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\obj\Debug\net8.0\TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\obj\Debug\net8.0\TiposDeDados.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\obj\Debug\net8.0\TiposDeDados.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\obj\Debug\net8.0\TiposDeDados.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\obj\Debug\net8.0\TiposDeDados.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\obj\Debug\net8.0\TiposDeDados.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\obj\Debug\net8.0\refint\TiposDeDados.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\obj\Debug\net8.0\TiposDeDados.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\obj\Debug\net8.0\TiposDeDados.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\TiposDeDados\obj\Debug\net8.0\ref\TiposDeDados.dll
