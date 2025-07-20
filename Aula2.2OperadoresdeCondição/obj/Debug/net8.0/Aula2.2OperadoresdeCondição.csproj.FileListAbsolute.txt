@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\bin\Debug\net8.0\Aula2.2OperadoresdeCondição.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\bin\Debug\net8.0\Aula2.2OperadoresdeCondição.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\bin\Debug\net8.0\Aula2.2OperadoresdeCondição.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\bin\Debug\net8.0\Aula2.2OperadoresdeCondição.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\bin\Debug\net8.0\Aula2.2OperadoresdeCondição.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\obj\Debug\net8.0\Aula2.2OperadoresdeCondição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\obj\Debug\net8.0\Aula2.2OperadoresdeCondição.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\obj\Debug\net8.0\Aula2.2OperadoresdeCondição.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\obj\Debug\net8.0\Aula2.2OperadoresdeCondição.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\obj\Debug\net8.0\Aula2.2OperadoresdeCondição.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\obj\Debug\net8.0\Aula2.2OperadoresdeCondição.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\obj\Debug\net8.0\refint\Aula2.2OperadoresdeCondição.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\obj\Debug\net8.0\Aula2.2OperadoresdeCondição.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\obj\Debug\net8.0\Aula2.2OperadoresdeCondição.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.2OperadoresdeCondição\obj\Debug\net8.0\ref\Aula2.2OperadoresdeCondição.dll
