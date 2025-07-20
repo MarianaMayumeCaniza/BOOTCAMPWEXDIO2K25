@@ -25,3 +25,20 @@ Console.WriteLine(Convert.ToInt32(null));
 int inteiro = 5;
 string f = inteiro.ToString();
 Console.WriteLine(f);
+
+
+//casting implicito
+int g = 5;
+double h = a;
+Console.WriteLine(h);
+
+//Erro
+long i = 5;
+int j = i;
+int l = Convert.ToInt32(i);
+Console.WriteLine(l);
+
+//Convertendo de forma segura
+int.tryParse("5c", out int m);
+Console.WriteLine(m);
+Console.WriteLine("Conversão com sucesso");

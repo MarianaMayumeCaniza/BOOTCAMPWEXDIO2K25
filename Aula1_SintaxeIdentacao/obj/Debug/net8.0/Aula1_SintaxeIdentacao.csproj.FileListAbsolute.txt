@@ -12,3 +12,4 @@ C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BO
 C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\obj\Debug\net8.0\Aula1_SintaxeIdentacao.pdb
 C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\obj\Debug\net8.0\Aula1_SintaxeIdentacao.genruntimeconfig.cache
 C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\obj\Debug\net8.0\ref\Aula1_SintaxeIdentacao.dll
+c:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula1_SintaxeIdentacao\obj\Debug\net8.0\Aula1_SintaxeIdentacao.sourcelink.json
