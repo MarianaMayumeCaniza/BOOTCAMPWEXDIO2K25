@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\bin\Debug\net8.0\Aula2.3_OperadoresDeLogica.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\bin\Debug\net8.0\Aula2.3_OperadoresDeLogica.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\bin\Debug\net8.0\Aula2.3_OperadoresDeLogica.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\bin\Debug\net8.0\Aula2.3_OperadoresDeLogica.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\bin\Debug\net8.0\Aula2.3_OperadoresDeLogica.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\obj\Debug\net8.0\Aula2.3_OperadoresDeLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\obj\Debug\net8.0\Aula2.3_OperadoresDeLogica.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\obj\Debug\net8.0\Aula2.3_OperadoresDeLogica.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\obj\Debug\net8.0\Aula2.3_OperadoresDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\obj\Debug\net8.0\Aula2.3_OperadoresDeLogica.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\obj\Debug\net8.0\Aula2.3_OperadoresDeLogica.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\obj\Debug\net8.0\refint\Aula2.3_OperadoresDeLogica.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\obj\Debug\net8.0\Aula2.3_OperadoresDeLogica.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\obj\Debug\net8.0\Aula2.3_OperadoresDeLogica.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula2.3_OperadoresDeLogica\obj\Debug\net8.0\ref\Aula2.3_OperadoresDeLogica.dll
