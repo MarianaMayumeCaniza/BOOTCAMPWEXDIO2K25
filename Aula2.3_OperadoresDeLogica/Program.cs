@@ -3,9 +3,39 @@ bool possuiAutorizacaoDoPesponsavel = false;
 
 //Se ambos forem falsa não é liberado
 
-if( ehMaiorDeIdade || possuiAutorizacaoDoPesponsavel){
+if (ehMaiorDeIdade || possuiAutorizacaoDoPesponsavel)
+{
     Console.WriteLine("Entrada liberada!");
 
-}else{
+}
+else
+{
     Console.WriteLine("Entrada não liberada");
+}
+
+
+
+bool possuiPresencaMinima = true;
+double media = 7.5;
+
+if (possuiPresencaMinima && media > 7)
+{
+    Console.WriteLine("Aprovado");
+
+}
+else
+{
+    Console.WriteLine("Reprovado");
+}
+
+bool choveu = true;
+bool estaTarde = true;
+
+if (!choveu && !estaTarde)
+{
+    Console.WriteLine("Vou pedalar");
+}
+else
+{
+    Console.WriteLine("Vou andar de bicicleta outro dia");
 }
