@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\bin\Debug\net8.0\Aula3_EstruturasRepeticao.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\bin\Debug\net8.0\Aula3_EstruturasRepeticao.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\bin\Debug\net8.0\Aula3_EstruturasRepeticao.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\bin\Debug\net8.0\Aula3_EstruturasRepeticao.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\bin\Debug\net8.0\Aula3_EstruturasRepeticao.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\obj\Debug\net8.0\Aula3_EstruturasRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\obj\Debug\net8.0\Aula3_EstruturasRepeticao.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\obj\Debug\net8.0\Aula3_EstruturasRepeticao.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\obj\Debug\net8.0\Aula3_EstruturasRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\obj\Debug\net8.0\Aula3_EstruturasRepeticao.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\obj\Debug\net8.0\Aula3_EstruturasRepeticao.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\obj\Debug\net8.0\refint\Aula3_EstruturasRepeticao.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\obj\Debug\net8.0\Aula3_EstruturasRepeticao.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\obj\Debug\net8.0\Aula3_EstruturasRepeticao.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula3_EstruturasRepeticao\obj\Debug\net8.0\ref\Aula3_EstruturasRepeticao.dll
