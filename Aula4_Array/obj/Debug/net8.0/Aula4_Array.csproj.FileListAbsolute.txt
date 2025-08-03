@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\obj\Debug\net8.0\Aula4_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\obj\Debug\net8.0\Aula4_Array.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\obj\Debug\net8.0\Aula4_Array.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\obj\Debug\net8.0\Aula4_Array.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\obj\Debug\net8.0\Aula4_Array.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\bin\Debug\net8.0\Aula4_Array.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\bin\Debug\net8.0\Aula4_Array.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\bin\Debug\net8.0\Aula4_Array.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\bin\Debug\net8.0\Aula4_Array.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\bin\Debug\net8.0\Aula4_Array.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\obj\Debug\net8.0\Aula4_Array.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\obj\Debug\net8.0\refint\Aula4_Array.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\obj\Debug\net8.0\Aula4_Array.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\obj\Debug\net8.0\Aula4_Array.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula4_Array\obj\Debug\net8.0\ref\Aula4_Array.dll
