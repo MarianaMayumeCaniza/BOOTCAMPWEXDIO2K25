@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\obj\Debug\net8.0\Aula5_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\obj\Debug\net8.0\Aula5_Classes.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\obj\Debug\net8.0\Aula5_Classes.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\obj\Debug\net8.0\Aula5_Classes.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\obj\Debug\net8.0\Aula5_Classes.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\bin\Debug\net8.0\Aula5_Classes.exe
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\bin\Debug\net8.0\Aula5_Classes.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\bin\Debug\net8.0\Aula5_Classes.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\bin\Debug\net8.0\Aula5_Classes.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\bin\Debug\net8.0\Aula5_Classes.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\obj\Debug\net8.0\Aula5_Classes.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\obj\Debug\net8.0\refint\Aula5_Classes.dll
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\obj\Debug\net8.0\Aula5_Classes.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\obj\Debug\net8.0\Aula5_Classes.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\PROJETOSGITHUB\BOOTCAMPS\WEXDIO2K25\BOOTCAMPWEXDIO2K25\Aula5_Classes\obj\Debug\net8.0\ref\Aula5_Classes.dll
